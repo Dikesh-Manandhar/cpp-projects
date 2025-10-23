@@ -20,5 +20,5 @@ Notes
 - The program reads/writes `accounts.txt` in the same folder. Keep a backup if you want to preserve sample data.
 - You can open the file in a text editor to verify account entries.
 
-Want improvements?
-- I can add argument parsing, nicer menus, or a small JSON-based persistence layer.
+Improvements
+- Add argument parsing, nicer menus, or a small JSON-based persistence layer.
