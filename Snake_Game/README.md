@@ -36,4 +36,3 @@ Controls
 - Arrow keys: move
 - X: exit
 
-If you want the game split into source/header or ported to a cross-platform renderer, I can do that next.
