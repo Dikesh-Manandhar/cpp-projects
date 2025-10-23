@@ -20,6 +20,6 @@ Notes
 - The program writes a `student.bin` file in the same folder. If you want to start fresh, delete the file before running.
 - The program uses a fixed-size name buffer for easy binary read/write. If you change the structure, existing `student.bin` files may become incompatible.
 
-If you want I can:
+Improvements:
 - Add a CSV/text mode for easier manual editing and portability.
 - Add a managed CLI (menus) or a small GUI.
