@@ -1,0 +1,17 @@
+﻿# C++ workspace
+
+# Visual Studio / VSCode
+.vscode/
+
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.log
+bin/
+build/
+Debug/
+Release/
+
+# Misc
+*.tmp
